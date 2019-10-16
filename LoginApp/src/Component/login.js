@@ -8,6 +8,7 @@ import {
   Alert,
   Image,
   TextInput,
+  TouchableHighlight,
 } from 'react-native';
 export default class Logo extends Component {
   render() {

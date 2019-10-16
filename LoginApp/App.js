@@ -47,11 +47,12 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.lighter,
   },
   mainStyle: {
-    display: 'flex',
+    //display: 'flex',
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     //backgroundColor: 'red',
-    height: 850,
+    //height: 850
   },
   engine: {
     position: 'absolute',
